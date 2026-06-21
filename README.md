@@ -54,37 +54,6 @@ $zuhra = [
 
 ---
 
-## 🎯 Goals & What I'm Learning Next
-
-<div align="center">
-
-| 🌱 Currently Learning | 🎯 2025 Goals | 💭 Dream Projects |
-|----------------------|--------------|------------------|
-| React.js — building my first component library | Land a remote web dev internship 🌐 | A full SaaS app with PHP + React |
-| REST APIs with PHP | Push all my projects to GitHub publicly | A portfolio website that wows recruiters |
-| Advanced MySQL — stored procedures & joins | Get my first freelance client 💼 | An open-source LMS others can use |
-| JavaScript ES6+ deep dive | Complete a React mini-project | A CV builder with live preview & PDF export |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**My learning roadmap 🗺️**
-
-```
-2022 ──► HTML · CSS · JS basics          ✅ done
-2023 ──► PHP · MySQL · first internship  ✅ done
-2024 ──► Full LMS from scratch           ✅ done & ongoing
-2025 ──► React · APIs · open source      🔥 in progress
-2026 ──► Full-stack role · freelancing   🌟 the dream
-```
-
-</div>
-
----
-
 ## 🚀 What I've Built
 
 <div align="center">
