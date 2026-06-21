@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" style="border-radius:20px"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
 
 ## 🌸 A little about me
 
@@ -54,6 +54,37 @@ $zuhra = [
 
 ---
 
+## 🎯 Goals & What I'm Learning Next
+
+<div align="center">
+
+| 🌱 Currently Learning | 🎯 2025 Goals | 💭 Dream Projects |
+|----------------------|--------------|------------------|
+| React.js — building my first component library | Land a remote web dev internship 🌐 | A full SaaS app with PHP + React |
+| REST APIs with PHP | Push all my projects to GitHub publicly | A portfolio website that wows recruiters |
+| Advanced MySQL — stored procedures & joins | Get my first freelance client 💼 | An open-source LMS others can use |
+| JavaScript ES6+ deep dive | Complete a React mini-project | A CV builder with live preview & PDF export |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**My learning roadmap 🗺️**
+
+```
+2022 ──► HTML · CSS · JS basics          ✅ done
+2023 ──► PHP · MySQL · first internship  ✅ done
+2024 ──► Full LMS from scratch           ✅ done & ongoing
+2025 ──► React · APIs · open source      🔥 in progress
+2026 ──► Full-stack role · freelancing   🌟 the dream
+```
+
+</div>
+
+---
+
 ## 🚀 What I've Built
 
 <div align="center">
@@ -70,35 +101,13 @@ $zuhra = [
 
 ---
 
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuray54&show_icons=true&theme=radical&icon_color=f4a9c4&title_color=c77dff&text_color=9d4edd&hide_border=true&bg_color=0d1117&rank_icon=github" width="47%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuray54&layout=compact&theme=radical&title_color=c77dff&text_color=9d4edd&hide_border=true&bg_color=0d1117" width="45%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuray54&theme=radical&ring=c77dff&fire=f4a9c4&currStreakLabel=c77dff&hide_border=true&background=0d1117" width="60%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuray54&theme=redical&bg_color=0d1117&color=c77dff&line=f4a9c4&point=ffffff&hide_border=true" width="95%"/>
-</div>
-
----
-
 ## 🏆 Certifications
 
 <div align="center">
 
-![](https://img.shields.io/badge/🎀_NAVTTC-Web_Development_Certification-ffd6e7?style=for-the-badge&labelColor=f48fb1&logoColor=white)
+![](https://img.shields.io/badge/🎀_NAVTTC-Web_Development_Certification-ffd6e7?style=for-the-badge&labelColor=f48fb1)
 &nbsp;
-![](https://img.shields.io/badge/📖_GREK-Learning_%26_Skills_Program-cdb4db?style=for-the-badge&labelColor=ce93d8&logoColor=white)
+![](https://img.shields.io/badge/📖_GREK-Learning_%26_Skills_Program-cdb4db?style=for-the-badge&labelColor=ce93d8)
 
 </div>
 
