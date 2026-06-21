@@ -3,103 +3,118 @@
 
 ---
 
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Zuhra+Rehman+%F0%9F%91%8B;Web+Developer+%7C+SE+Student;PHP+%7C+JavaScript+%7C+MySQL;Building+real+apps%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6,00B4D8,90E0EF&height=80&section=header&fontSize=0" />
-</p>
+<!-- Wave header -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=ffd6e7,ffb3c6,ffc8dd,cdb4db&height=120&section=header&text=Zuhra%20Rehman&fontSize=42&fontColor=6d4c7d&fontAlignY=65&animation=fadeIn)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=520&lines=✨+Web+Developer+%26+SE+Student+✨;💜+PHP+·+JavaScript+·+MySQL+💜;🌸+Building+real+apps+from+scratch+🌸;🚀+Remote-ready+%26+Open+to+Internships+🚀)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://img.shields.io/badge/💌_Email-zuhrar707@gmail.com-f4a9c4?style=flat-square&labelColor=fce4ec)
+![](https://img.shields.io/badge/📍_Based_in-Mardan,_Pakistan-c77dff?style=flat-square&labelColor=f3e5f5)
+![](https://img.shields.io/badge/🌟_Status-Open_to_Internships-a8e6cf?style=flat-square&labelColor=e8f5e9)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=✨+Profile+Views&color=f4a9c4&style=flat-square)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00B4D8&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Internships-00B4D8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Pakistan%20🇵🇰-0077B6?style=flat-square" />
-</p>
-
----
-
-## 👩‍💻 About Me
+## 🌸 A little about me
 
 ```php
 <?php
 
 $zuhra = [
-  "name"       => "Zuhra Rehman",
-  "degree"     => "BS Software Engineering (Final Year)",
-  "university" => "Sarhad University of Science & IT, Peshawar",
-  "focus"      => ["PHP", "JavaScript", "MySQL", "Tailwind CSS"],
-  "currently"  => "Building a full LMS Admin Panel from scratch 🏗️",
-  "looking_for"=> "Remote Web Developer Internship 🌐",
-  "email"      => "zuhrar707@gmail.com",
+  "name"        =>  "Zuhra Rehman 🌷",
+  "degree"      =>  "BS Software Engineering — Final Year",
+  "university"  =>  "Sarhad University of Science & IT, Peshawar",
+  "passion"     =>  "Turning ideas into real, working web apps ✨",
+  "stack"       =>  ["PHP", "JavaScript", "MySQL", "Tailwind CSS"],
+  "building"    =>  "LMS Admin Panel from scratch — my biggest project yet 🏗️",
+  "goal"        =>  "Land a remote web dev internship 🌐",
+  "fun_fact"    =>  "I wrote CSRF protection before I even knew it was a thing 😅",
+  "vibe"        =>  "Coffee ☕ + code 💻 + lo-fi beats 🎵",
 ];
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 💜 My Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-0077B6?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-00B4D8?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-0096C7?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-0077B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-00B4D8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-0077B6?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-0096C7?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-00B4D8?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-0077B6?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+<div align="center">
+
+**Languages & Markup**
+
+![PHP](https://img.shields.io/badge/PHP-e8b4f8?style=for-the-badge&logo=php&logoColor=6d4c7d)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd6e7?style=for-the-badge&logo=javascript&logoColor=6d4c7d)
+![HTML5](https://img.shields.io/badge/HTML5-ffc8dd?style=for-the-badge&logo=html5&logoColor=6d4c7d)
+![CSS3](https://img.shields.io/badge/CSS3-cdb4db?style=for-the-badge&logo=css3&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-d0bfff?style=for-the-badge&logo=cplusplus&logoColor=6d4c7d)
+
+**Frameworks & Tools**
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-c8f4e8?style=for-the-badge&logo=tailwind-css&logoColor=2d6a4f)
+![MySQL](https://img.shields.io/badge/MySQL-b9d4f7?style=for-the-badge&logo=mysql&logoColor=1a4f7a)
+![Git](https://img.shields.io/badge/Git-ffd6e7?style=for-the-badge&logo=git&logoColor=6d4c7d)
+![GitHub](https://img.shields.io/badge/GitHub-e8b4f8?style=for-the-badge&logo=github&logoColor=6d4c7d)
+![VS Code](https://img.shields.io/badge/VS_Code-cdb4db?style=for-the-badge&logo=visual-studio-code&logoColor=6d4c7d)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I've Built
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎓 **AIMS LMS Admin Panel** | Full-featured Learning Management System — user management, enrollment system, real-time dashboard, CSRF protection, relational DB schema | PHP · MySQL · Tailwind · JS |
-| 📄 **CV Generator** | Web app that generates a formatted CV instantly from a form | HTML · CSS · JS |
-| 🌐 **OATECH Learning Website** | Responsive educational website with structured course layout | HTML · CSS · JS |
-| ✅ **To-Do List App** | Task manager with add, complete & delete functionality | HTML · CSS · JS |
-| 🎮 **Browser Games** | Tic Tac Toe & Stone Paper Scissors with game logic & responsive UI | JavaScript |
+<div align="center">
+
+| 🌟 | Project | What it does | Stack |
+|---|---------|-------------|-------|
+| 🎓 | **AIMS LMS Admin Panel** | Full LMS — users, courses, enrollments, live dashboard, CSRF, relational DB schema. Built entirely from scratch. | PHP · MySQL · Tailwind · JS |
+| 📄 | **CV Generator** | Fill a form → get a formatted CV. Instantly. | HTML · CSS · JS |
+| 🌐 | **OATECH Learning Website** | Responsive educational site with course sections | HTML · CSS · JS |
+| ✅ | **To-Do List App** | Add, complete, delete tasks — clean & simple | HTML · CSS · JS |
+| 🎮 | **Browser Games** | Tic Tac Toe + Stone Paper Scissors with full game logic | JavaScript |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&icon_color=00B4D8&title_color=00B4D8&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&title_color=00B4D8&hide_border=true&bg_color=0D1117" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&icon_color=f4a9c4&title_color=c77dff&text_color=9d4edd&hide_border=true&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&title_color=c77dff&text_color=9d4edd&hide_border=true&bg_color=0d1117" width="46%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&ring=00B4D8&fire=0096C7&currStreakLabel=90E0EF&hide_border=true" width="60%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&ring=c77dff&fire=f4a9c4&currStreakLabel=c77dff&hide_border=true" width="60%"/>
+</div>
 
 ---
 
 ## 🏆 Certifications
 
-- 🥇 **Web Development Certification** — NAVTTC
-- 📚 **GREK Certification** — Learning & Skills Program
+🎀 **Web Development Certification** — NAVTTC
+📖 **GREK Certification** — Learning & Skills Program
 
 ---
 
-## 🤝 Let's Connect
+## 🌸 Let's connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/zuhra-rehman"><img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:zuhrar707@gmail.com"><img src="https://img.shields.io/badge/Gmail-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0096C7?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cdb4db?style=for-the-badge&logo=linkedin&logoColor=6d4c7d)](https://linkedin.com/in/zuhra-rehman)
+[![Gmail](https://img.shields.io/badge/Gmail-ffd6e7?style=for-the-badge&logo=gmail&logoColor=6d4c7d)](mailto:zuhrar707@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-e8b4f8?style=for-the-badge&logo=github&logoColor=6d4c7d)](https://github.com/YOUR_GITHUB_USERNAME)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6,00B4D8,90E0EF&height=80&section=footer&fontSize=0" />
-</p>
+<br/>
+
+*"She believed she could, so she did." 🌷*
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=soft&color=ffd6e7,ffb3c6,ffc8dd,cdb4db&height=80&section=footer&fontSize=0)
